@@ -1,0 +1,4 @@
+Superman,Clark Kent,Krypton
+Batman,Bruce Wayne,Gotham City
+Spiderman,Peter Parker,Queens NY
+Wonder Woman,Diana Prince,Themyscira
